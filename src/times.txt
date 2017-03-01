@@ -1,0 +1,9 @@
+patio_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_True.mp4: 0.224999904633
+../Videos/patio_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_True.mp4: 33.0210001469
+../Videos/example_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_True.avi: 17.0770001411
+../Videos/example_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_True.avi: 17.0209999084
+../Videos/example_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_True.avi: 15.879999876
+../Videos/example_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_False.avi: 51.1600000858
+../Videos/patio_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_False.mp4: 100.947000027
+../Videos/patio_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_False.avi: 89.5529999733
+../Videos/patio_res_MT_inf_RT_0.2_FILT_gauss_FW_7_SG_0.2_FAST_False.avi: 82.0520000458
